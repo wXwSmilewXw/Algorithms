@@ -63,3 +63,4 @@ int main() {
     vector_delete(vector); // Освобождаем память, занятую вектором
     return 0; // Завершаем программу с кодом 0
 }
+//rollback
